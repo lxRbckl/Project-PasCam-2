@@ -1,5 +1,5 @@
 ## Project-PasCam-2
-< Camouflage your passwords. Increased security. Fall 2019.
+> Camouflage your passwords. Increased security. Fall 2019.
 
 ### Installation
 ```
